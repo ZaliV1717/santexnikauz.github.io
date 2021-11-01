@@ -1,0 +1,83 @@
+
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+
+.dropdown img{
+	width: 25px;
+}
+
+.btn-search{
+	color: #fff;
+	border-radius: 0 .25rem .25rem 0;
+}
+
+.form-control{
+	margin: 0 !important;
+	border-radius: .25rem 0 0 .25rem;
+}
+
+.pd{
+	padding: 50px 0;
+}
+
+.pd-group{
+	padding-top: 20px;
+}
+
+.carousel-indicators li{
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+}
+
+.carousel-caption .btn{
+	margin: 10px 0;
+}
+
+.card .card-text{
+	text-align: start;
+	
+}
+
+.card{
+	margin: 10px;
+	display: block;
+	width: 100%;
+	float: left;
+}
+
+
+
+  .molodoy{
+	  color:#fff;
+	  font-size: 18px;
+  }
+  
+  .frap{
+	  opacity: 0.9;
+	  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+  }
+  
+  .price{
+	text-decoration: line-through;
+	font-size: 20px;
+	color:red;
+	font-family: monospace;
+  }
+ 
+ html{
+	scroll-behavior: smooth;
+ }
+ 
+ .svgw{
+	 font-size: 35px;
+	 width: 20%;
+	 margin: 40px;
+ }
